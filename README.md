@@ -17,6 +17,8 @@ Explore my personal portfolio hosted on AWS S3!
 
 
 Explore my Simple Weather API project 
+
+
 https://4pz56l2tlk.execute-api.us-east-1.amazonaws.com/SimpleWeatherApp?city=bengaluru
 
 
