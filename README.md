@@ -1,7 +1,6 @@
 # My Portfolio
 This is Abhiraj's portfolio hosted on GitHub.
 
-🚀 [View Projects on My Portfolio](http://abhiraj-portfolio-site.s3-website-us-east-1.amazonaws.com/#projects)
 
 🚀 [View My Full Portfolio Website](http://abhiraj-portfolio-site.s3-website-us-east-1.amazonaws.com/)
 
